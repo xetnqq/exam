@@ -50,7 +50,7 @@
     margin-top: 267px;
   }
   
-.frame-2 {
+.header {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
@@ -167,7 +167,7 @@
     width: 100%;
   }
   
-   .frame-4 {
+   .categories {
     display: flex;
     flex-direction: column;
     height: 443px;
@@ -190,7 +190,7 @@
     object-fit: cover;
   }
   
-   .frame-5 {
+   .guide {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -201,7 +201,7 @@
     flex: 0 0 auto;
   }
   
-  .text-wrapper-3 {
+  .h1-guide {
     text-align: center;
     position: relative;
     align-self: stretch;
@@ -391,7 +391,7 @@
     line-height: 160%;
   }
   
-   .frame-7 {
+   .second-block {
     display: flex;
     width: 1184px;
     align-items: center;
@@ -399,7 +399,7 @@
     position: absolute;
   }
   
-   .frame-8 {
+   .first-content {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
@@ -472,7 +472,7 @@
     line-height: 160%;
   }
   
-   .frame-10 {
+   .buttons {
     display: inline-flex;
     align-items: flex-start;
     gap: 16px;
@@ -504,7 +504,7 @@
     line-height: 120%;
   }
   
-   .frame-11 {
+   .watchdemo-button {
     display: inline-flex;
     align-items: center;
     gap: 8px;
@@ -527,13 +527,13 @@
     line-height: 120%;
   }
   
-   .group {
+   .top-places {
     position: relative;
     width: 772px;
     height: 713px;
   }
   
-   .overlap-group-2 {
+   .top-places-wrapper {
     position: relative;
     height: 821px;
   }
@@ -544,7 +544,7 @@
     height: 287px;
   }
   
-   .frame-12 {
+   .images {
     display: inline-flex;
     align-items: center;
     gap: 31px;
@@ -553,7 +553,7 @@
     left: 91px;
   }
   
-   .frame-13 {
+   .images-group {
     display: inline-flex;
     flex-direction: column;
     align-items: flex-start;
@@ -590,7 +590,7 @@
     left: 443px;
   }
   
-   .frame-16 {
+   .top-places-pin {
     display: inline-flex;
     align-items: center;
     gap: 8px;
@@ -614,7 +614,7 @@
     font-weight: 700;
   }
   
-   .frame-17 {
+   .logos {
     position: absolute;
     width: 1184px;
     height: 160px;
@@ -629,7 +629,7 @@
     left: 38px;
   }
   
-   .frame-18 {
+   .navbar-bar {
     display: flex;
     width: 1184px;
     align-items: center;
@@ -639,7 +639,7 @@
     left: 128px;
   }
   
-   .frame-19 {
+   .travlog-logo {
     display: inline-flex;
     align-items: center;
     gap: 16px;
@@ -695,14 +695,14 @@
     line-height: 120%;
   }
   
-   .frame-20 {
+   .log-in-sign-up {
     display: inline-flex;
     align-items: flex-start;
     position: relative;
     flex: 0 0 auto;
   }
   
-   .frame-21 {
+   .log-in {
     display: inline-flex;
     align-items: flex-start;
     gap: 8px;
@@ -713,7 +713,7 @@
     border-radius: 100px;
   }
   
-   .frame-22 {
+   .sign-up {
     display: inline-flex;
     align-items: flex-start;
     gap: 8px;
@@ -724,7 +724,7 @@
     border-radius: 100px;
   }
   
-   .frame-23 {
+   .second-header {
     display: flex;
     flex-direction: column;
     width: 1184px;
@@ -736,7 +736,7 @@
     left: 128px;
   }
   
-   .frame-24 {
+   .block-with-arrows {
     display: flex;
     align-items: center;
     position: relative;
@@ -745,7 +745,7 @@
     flex: 0 0 auto;
   }
   
-   .frame-25 {
+   .arrows {
     display: inline-flex;
     align-items: flex-start;
     gap: 32px;
@@ -780,7 +780,7 @@
     margin-right: -46px;
   }
   
-   .frame-26 {
+   .tours-block {
     display: flex;
     align-items: flex-start;
     gap: 32px;
@@ -790,7 +790,7 @@
     flex: 0 0 auto;
   }
   
-   .frame-27 {
+   .first-tour {
     display: flex;
     flex-direction: column;
     height: 575px;
@@ -808,7 +808,7 @@
     flex-grow: 1;
   }
   
-   .frame-28 {
+   .frame-with-first-tour {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
@@ -824,7 +824,7 @@
       0px 513px 205px #00000003, 0px 801px 224px transparent;
   }
   
-   .frame-29 {
+   .price {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
@@ -835,7 +835,7 @@
     flex: 0 0 auto;
   }
   
-   .frame-30 {
+   .price-and-tour {
     display: flex;
     align-items: flex-start;
     position: relative;
@@ -876,7 +876,7 @@
     line-height: 160%;
   }
   
-   .frame-31 {
+   .rate {
     display: inline-flex;
     align-items: center;
     gap: 8px;
@@ -895,7 +895,7 @@
     line-height: 120%;
   }
   
-   .overlap-2 {
+   .third-block {
     position: absolute;
     width: 1440px;
     height: 825px;
@@ -917,7 +917,7 @@
     left: 1163px;
   }
   
-   .frame-34 {
+   .third-block {
     display: flex;
     width: 1312px;
     align-items: flex-start;
@@ -928,7 +928,7 @@
     left: 128px;
   }
   
-   .frame-35 {
+   .sub-block {
     display: flex;
     flex-direction: column;
     align-items: flex-start;

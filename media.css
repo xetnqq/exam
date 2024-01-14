@@ -8,10 +8,10 @@
  .navbar{
   display: none;
  }
- .frame-20{
+ .log-in-sign-up{
  padding-right: 350px;
  }
- .frame-26 {
+ .tours {
   display: flex;
   align-items: flex-start;
   gap: 32px;
@@ -21,7 +21,7 @@
   flex: 0 0 auto;
   margin-top: 500px;
 }
- .frame-7 {
+ .second-block {
   display: flex;
   width:760px;
   align-items: center;
@@ -30,7 +30,7 @@
   flex-direction: column-reverse;
  }
 
-.frame-4{
+.categories{
   width: 300px;
 }
 
@@ -65,7 +65,7 @@
   margin-left: 250px;
 }
 
- .frame-8 {
+ .first-content {
   text-align: center;
   display: flex;
   gap: 43px;
@@ -74,16 +74,16 @@
   .frame-9{
   margin-left: 250px;
   }
-  .frame-10{
+  .buttons{
     margin-left: 200px;
   }
-  .frame-17 {
+  .logos {
     position: absolute;
     width: 1100px;
     top: 1450px;
     padding-right: 100px;
 }
-.frame-2 {
+.header {
   text-align:start;
   margin-left:60px;
   margin-top: 550px;
@@ -130,7 +130,7 @@
   width: 45%;
 }
 
-.frame-25{
+.arrows{
   position: absolute;
   margin-top: 1100px;
 margin-left: 230px;
@@ -145,16 +145,16 @@ margin-left: 230px;
   margin-left: 100px;
 }
 
-.overlap-2{
+.third-block{
   margin-top: 600px;
 }
 
-.frame-26{
+.tours-block{
   margin-top: 100px;
   width: 50%;
   margin-right: 40px;
 }
-.frame-28{
+.frame-with-first-tour{
   width: 84%;
   height: 35%;
 }
@@ -167,7 +167,7 @@ margin-left: 230px;
   margin-left: 100px;
 }
 
-.frame-34{
+.fthird-block{
   margin-top: 1550px;
 }
 

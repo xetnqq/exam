@@ -1,5 +1,5 @@
 @media (min-width: 768px) and (max-width: 1024px) {
-  .desktop{
+  .main {
   height: 7000px;
   }
 .navbar{
@@ -28,7 +28,7 @@ width: 75%;
 flex: 0 0 auto;
 height: 100px;
 }
-.frame-7 {
+.explore-the-world-block {
 display: flex;
 width:760px;
 align-items: center;
@@ -37,7 +37,7 @@ position: absolute;
 flex-direction: column-reverse;
 }
 
-.text-wrapper{
+.service-wrapper{
   color: #f85e9f;
   font-family: "CircularStd-Bold", Helvetica;;
   font-weight: 700;;
@@ -55,7 +55,7 @@ display: inline-flex;
 position: absolute;
 margin-left: 400px;
 }
-.frame-8 {
+.first-block {
 text-align: center;
 display: flex;
 position: relative;
@@ -81,7 +81,7 @@ width: 100%;
 flex: 0 0 auto;
 margin-bottom: 50px;
 }
-.frame-2 {
+.header {
 text-align:center;
 padding-right:700px ;
 
@@ -91,7 +91,7 @@ flex-direction: column;
 align-items: flex-start;
 width: 50%;
 }
-.frame-3 {
+.content-block {
 text-align: center;
 padding-top: 1300px;
 padding-right: 200px;
